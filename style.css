@@ -1,0 +1,25 @@
+
+.a-item {
+ height: 500px; 
+ align-items: center;
+
+    } 
+.a-image {
+    height: 100%;
+    object-fit: cover;
+   
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+
+.ai-image {
+height: 500px;
+object-fit: cover;
+filter: brightness(0.6);
+}
+.ai-item {
+    height: 500px;
+}
+
